@@ -13,6 +13,5 @@ The idea of Build-Measure-Learn cycles and how more iterations can drive meaning
 In summary: Repetition is key – even in the digital world!
 
 For more information, I have found an excellent Steve Blank article that provides a good summary of the Build-Measure-Learn cycle here:
+
 http://steveblank.com/2015/05/06/build-measure-learn-throw-things-against-the-wall-and-see-if-they-work/
-
-
