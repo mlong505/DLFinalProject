@@ -1,5 +1,5 @@
-Evan's Digital Literacy Course Takeaway:
-Build. Measure. Learn.
+<b>Evan's Digital Literacy Course Takeaway:
+Build. Measure. Learn.</b>
 
 First, let's begin with some good old fashioned graphic representation (I have heard most MBA students learn better with pictures):
 
