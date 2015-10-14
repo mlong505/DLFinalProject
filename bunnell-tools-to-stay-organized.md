@@ -5,7 +5,7 @@ During our last class, we discussed ways to keep organized when working with a t
 
 Both of these tools bring value beyond the development space. They create platforms to stay organized, which is incredibly important to maintaining an efficient development process.
 
-Below, I've included a screenshot of the Trello interface and a link to more information about its functionaly.
+Below, I've included a screenshot of the Trello interface and a link to learn more about its functionality.
 
 http://lifehacker.com/how-to-use-trello-to-organize-your-entire-life-1683821040
 
